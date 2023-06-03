@@ -1,0 +1,15 @@
+/home/julio/Coding/C#/Numbers/bin/Debug/net6.0/Numbers
+/home/julio/Coding/C#/Numbers/bin/Debug/net6.0/Numbers.deps.json
+/home/julio/Coding/C#/Numbers/bin/Debug/net6.0/Numbers.runtimeconfig.json
+/home/julio/Coding/C#/Numbers/bin/Debug/net6.0/Numbers.dll
+/home/julio/Coding/C#/Numbers/bin/Debug/net6.0/ref/Numbers.dll
+/home/julio/Coding/C#/Numbers/bin/Debug/net6.0/Numbers.pdb
+/home/julio/Coding/C#/Numbers/obj/Debug/net6.0/Numbers.csproj.AssemblyReference.cache
+/home/julio/Coding/C#/Numbers/obj/Debug/net6.0/Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/julio/Coding/C#/Numbers/obj/Debug/net6.0/Numbers.AssemblyInfoInputs.cache
+/home/julio/Coding/C#/Numbers/obj/Debug/net6.0/Numbers.AssemblyInfo.cs
+/home/julio/Coding/C#/Numbers/obj/Debug/net6.0/Numbers.csproj.CoreCompileInputs.cache
+/home/julio/Coding/C#/Numbers/obj/Debug/net6.0/Numbers.dll
+/home/julio/Coding/C#/Numbers/obj/Debug/net6.0/ref/Numbers.dll
+/home/julio/Coding/C#/Numbers/obj/Debug/net6.0/Numbers.pdb
+/home/julio/Coding/C#/Numbers/obj/Debug/net6.0/Numbers.genruntimeconfig.cache
